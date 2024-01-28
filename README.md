@@ -1,3 +1,0 @@
-# Patient-Demoo
-# DemoPatient
-# DemoPatient
